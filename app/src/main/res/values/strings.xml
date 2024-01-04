@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sportify</string>
+    <string name="app_name_uppercase">SPORTIFY</string>
+    <string name="app_name_lowercase">sportify</string>
+    <string name="about_us_title">Stay Ahead, Stay Active: Track Your Victory!</string>
+    <string name="about_us_body">Welcome to Sportify - your sports companion for achievements and inspiration. Track your progress, get updates on events, and connect with the sports community. Stay fit and inspired with Sportify!</string>
+    <string name="about_us_tagline">Stay Ahead, Stay Active: Track Your Victory!</string>
+</resources>
